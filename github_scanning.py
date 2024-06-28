@@ -1,7 +1,5 @@
 import os
 from dotenv import load_dotenv
-# from jira import create_story_under_epic
-from date_time import date_time
 import requests
 
 def scan_for_dependabot_alerts_and_issues(organization: str, repository: str):
