@@ -38,3 +38,5 @@ Automatically created jira issues whenever there is a issue detected by CodeQL a
 ```commandline
 python3 jira.py --epic_key DEVOPS-245 --organization devwithkrishna 
 ```
+
+# This is a proof of concept only
