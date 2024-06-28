@@ -5,7 +5,6 @@ def date_time():
     now = datetime.now()
     formatted_datetime = now.strftime("%d-%B-%Y %H:%M")
     return formatted_datetime
-    # print(formatted_datetime)
 
 def main():
     """ test code """

@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 def list_repos_in_org(org_name: str):
     """
-    list all repos in github organization
+    list all repos in github organization using rest api repo end point
     :param org_name:
     :return:
     """
